@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1498581305 source:c:\users\emina\desktop\rentacar\main.cpp
+	<iostream>
+	<cstdlib>
+	"Datum.h"
+	"Korisnik.h"
+	"Automobil.h"
+	"Transakcija.h"
+	<string>
+
+1498583074 source:c:\users\emina\desktop\rentacar\src\datum.cpp
+	"Datum.h"
+
+1498567808 c:\users\emina\desktop\rentacar\include\datum.h
+	<iostream>
+
+1498581046 source:c:\users\emina\desktop\rentacar\src\korisnik.cpp
+	"Korisnik.h"
+
+1498579358 c:\users\emina\desktop\rentacar\include\korisnik.h
+	<iostream>
+	<string>
+
+1498582516 source:c:\users\emina\desktop\rentacar\src\automobil.cpp
+	"Automobil.h"
+
+1498567055 c:\users\emina\desktop\rentacar\include\automobil.h
+	<iostream>
+
+1498527029 c:\users\emina\desktop\rentacar\include\rent.h
+	<Datum.h>
+	<Korisnik.h>
+	<Automobil.h>
+	<iostream>
+	<string>
+
+1498520970 source:c:\users\emina\desktop\rentacar\src\rent.cpp
+	"Rent.h"
+
+1498556891 source:c:\users\emina\desktop\rentacar\src\cijena.cpp
+	"Cijena.h"
+
+1498560111 c:\users\emina\desktop\rentacar\include\cijena.h
+	<Datum.h>
+	<Korisnik.h>
+	<Automobil.h>
+	<iostream>
+
+1498687612 c:\users\emina\desktop\rentacar\include\transakcija.h
+	<iostream>
+	<string>
+	<fstream>
+	<Datum.h>
+	<Korisnik.h>
+	<Automobil.h>
+
+1498687703 source:c:\users\emina\desktop\rentacar\src\transakcija.cpp
+	"Transakcija.h"
+
